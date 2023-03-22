@@ -13,6 +13,10 @@
 
 }
 
+.bg-color-conferences {
+    background-color: #f4f4f4;
+}
+
 
 
 .bg-color-contact{
@@ -412,3 +416,5 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+div#map {min-height: 360px;}
